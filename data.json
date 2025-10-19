@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Робота",
+    "timeframes": {
+      "daily": { "current": 5, "previous": 7 },
+      "weekly": { "current": 32, "previous": 36 },
+      "monthly": { "current": 103, "previous": 128 }
+    }
+  },
+  {
+    "title": "Ігри",
+    "timeframes": {
+      "daily": { "current": 2, "previous": 3 },
+      "weekly": { "current": 10, "previous": 8 },
+      "monthly": { "current": 23, "previous": 29 }
+    }
+  },
+  {
+    "title": "Навчання",
+    "timeframes": {
+      "daily": { "current": 1, "previous": 2 },
+      "weekly": { "current": 6, "previous": 8 },
+      "monthly": { "current": 20, "previous": 25 }
+    }
+  }
+]
